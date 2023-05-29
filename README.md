@@ -1,4 +1,4 @@
-# Geemap online app on Datapane
+# Geemap online app on Datapane 
 
 This is an example of the use of google collab, geemap, google earth engine, and datapane to show and publish maps
 
